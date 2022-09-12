@@ -16,7 +16,7 @@ y = 0
 while y < 10:
     if y == 3:
         y = y + 1
-        continue            #código depois de continue para de executar (debugar para ver processo)
+        continue            #código depois de continue para de executar (debugar para ver processo), pula para próximo laço
 
     print(y)
     y = y + 1
